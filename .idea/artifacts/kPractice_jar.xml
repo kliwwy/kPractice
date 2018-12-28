@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="kPractice:jar">
+    <output-path>$USER_HOME$/Desktop/coding/servers/test server/plugins</output-path>
+    <root id="archive" name="kPractice.jar">
+      <element id="module-output" name="kPractice" />
+    </root>
+  </artifact>
+</component>

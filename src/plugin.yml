@@ -1,0 +1,31 @@
+name: kPractice
+version: 1.0
+main: me.wilk3z.kpractice.Practice
+description: Practice plugin based off of Kohi's Practice 2.0
+author: wilk3z
+depend: [ProtocolLib, kCore]
+commands:
+  setspawn:
+    description: Set spawn command.
+  arena:
+    description: Arena command to handle arenas.
+  kit:
+    description: Kit command to handle kits.
+  duel:
+    description: Duel players.
+  team:
+    descripion: Team command to handle teams.
+    aliases: [t,party,p]
+  accept:
+    description: Accept player duels.
+  deny:
+    description: Deny player duels.
+  spectate:
+    description: Spectate players in duels.
+    aliases: [spec]
+  _:
+    description: Gets post duel inventory.
+  build:
+    description: Toggle builder mode on and off.
+  spawn:
+    description: Main spawn command.
