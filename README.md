@@ -1,2 +1,2 @@
 A practice plugin based on Kohi.
-(only works with Kaijo)
+(requires ProtocolLib, can use Kaijo or PaperSpigot for best performance)
